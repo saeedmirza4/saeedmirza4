@@ -90,6 +90,36 @@
   </table>
 </div>
 
+<!-- SKILL PROFICIENCY SECTION - REPLACED WITH BETTER VISUALIZATION -->
+<div align="center">
+  <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> SKILL PROFICIENCY <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"></h2>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://img.shields.io/badge/JavaScript-★★★★☆-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E" alt="JavaScript"/></td>
+      <td><img src="https://img.shields.io/badge/React-★★★★☆-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB" alt="React"/></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/HTML5-★★★★★-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26" alt="HTML5"/></td>
+      <td><img src="https://img.shields.io/badge/CSS3-★★★★☆-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6" alt="CSS3"/></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/Node.js-★★★☆☆-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=339933" alt="Node.js"/></td>
+      <td><img src="https://img.shields.io/badge/Python-★★★☆☆-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB" alt="Python"/></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/MongoDB-★★★☆☆-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248" alt="MongoDB"/></td>
+      <td><img src="https://img.shields.io/badge/Express-★★★☆☆-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=000000" alt="Express"/></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/Git-★★★★☆-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032" alt="Git"/></td>
+      <td><img src="https://img.shields.io/badge/Figma-★★★☆☆-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=F24E1E" alt="Figma"/></td>
+    </tr>
+  </table>
+</div>
+
 <!-- STATS SECTION -->
 <div align="center">
   <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GITHUB STATS <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></h2>
@@ -164,44 +194,42 @@
   <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> WHAT SETS ME APART <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></h2>
 </div>
 
-<div style="display: flex; justify-content: center;">
-  <div align="center">
-    <!-- First row -->
-    <div style="display: flex; justify-content: center;">
-      <div style="width: 260px; margin: 10px; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); background: linear-gradient(135deg, #2a2a72 0%, #009ffd 100%);">
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="center" width="50%">
+        <img width="50" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Problem Solver">
         <h3>💡 Problem Solver</h3>
         <p>I approach challenges with analytical thinking and creative solutions.</p>
-      </div>
-      <div style="width: 260px; margin: 10px; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); background: linear-gradient(135deg, #654ea3 0%, #eaafc8 100%);">
+      </td>
+      <td align="center" width="50%">
+        <img width="50" src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" alt="Adaptability">
         <h3>🔄 Adaptability</h3>
         <p>Quick to master new technologies and methodologies as needed.</p>
-      </div>
-    </div>
-    <!-- Second row -->
-    <div style="display: flex; justify-content: center;">
-      <div style="width: 260px; margin: 10px; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); background: linear-gradient(135deg, #4e54c8 0%, #8f94fb 100%);">
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <img width="50" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" alt="Full-Stack">
         <h3>🌐 Full-Stack Mindset</h3>
         <p>Comfortable working across the entire development stack.</p>
-      </div>
-      <div style="width: 260px; margin: 10px; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); background: linear-gradient(135deg, #11998e 0%, #38ef7d 100%);">
+      </td>
+      <td align="center" width="50%">
+        <img width="50" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Detail">
         <h3>🔍 Attention to Detail</h3>
         <p>Committed to precision and excellence in every line of code.</p>
-      </div>
-    </div>
-  </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<!-- 3D SKILL VISUALIZATION -->
+<!-- CODING ACTIVITY SECTION -->
 <div align="center">
-  <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> SKILL PROFICIENCY <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"></h2>
+  <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> CODING ACTIVITY <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"></h2>
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=saeedmirza4&skills=JavaScript,React,HTML,CSS,Python,Node.js&width=820&bg=0D1117&textColor=c9d1d9">
-    <source media="(prefers-color-scheme: light)" srcset="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=saeedmirza4&skills=JavaScript,React,HTML,CSS,Python,Node.js&width=820">
-    <img alt="Skill chart" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=saeedmirza4&skills=JavaScript,React,HTML,CSS,Python,Node.js&width=820">
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saeedmirza4&theme=react-dark&hide_border=true&area=true" width="90%" alt="Activity Graph">
 </div>
 
 <!-- TROPHIES SECTION -->
