@@ -1,62 +1,250 @@
-<!-- README.md for Saeed Ur Rehman -->
-
-<h1 align="center">✨ Hey there, I'm Saeed Ur Rehman 👨‍💻</h1>
-
-<p align="center">
-  <a href="https://saeeddev.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🌐 Portfolio-Click%20Here-blue?style=for-the-badge"></a>
-  <a href="https://www.linkedin.com/in/saeed-ur-rehman-92b182289/" target="_blank"><img src="https://img.shields.io/badge/💼 LinkedIn-Saeed%20Ur%20Rehman-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:sssf26mirza@gmail.com"><img src="https://img.shields.io/badge/📧 Email-Me-red?style=for-the-badge"></a>
-</p>
-
----
-
+<!-- HEADER SECTION -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Aspiring+Software+Developer;Web+%7C+AI+%7C+Freelance+Projects;Let's+Build+Cool+Things+Together!" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Saeed%20Ur%20Rehman&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%"/>
+  
+  <p align="center">
+    <a href="https://saeeddev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-saeeddev.vercel.app-F16529?style=for-the-badge&logo=firefox-browser&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/saeed-ur-rehman-92b182289/"><img src="https://img.shields.io/badge/LinkedIn-Saeed%20Ur%20Rehman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="mailto:sssf26mirza@gmail.com"><img src="https://img.shields.io/badge/Email-sssf26mirza%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="https://github.com/saeedmirza4"><img src="https://img.shields.io/badge/GitHub-saeedmirza4-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  </p>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&multiline=true&width=500&height=80&lines=Aspiring+Software+Developer;AI+Enthusiast+%26+Web+Development+Expert" alt="Typing SVG" />
+  </a>
 </div>
 
----
+<!-- ABOUT ME SECTION -->
+<div align="center">
+  <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> ABOUT ME <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></h2>
+</div>
 
-## 👨‍🏫 About Me
+<p align="center">
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="header"/> 
+</p>
 
-Hey, I’m **Saeed**, a Computer Science student at **Capital University of Science and Technology, Islamabad**. I’m a passionate self-learner, builder, and creator of things that live on the internet 🌐. 
+<img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47188C8T4DF971F8E43ED1E70/">
 
-🔭 I’m currently building:  
-&nbsp;&nbsp;&nbsp;&nbsp;💡 **AI-powered tools**  
-&nbsp;&nbsp;&nbsp;&nbsp;📊 **Web dashboards**  
-&nbsp;&nbsp;&nbsp;&nbsp;🌱 **Utility-based mini apps**  
+<div align="left" width="50%">
+  <p>I'm a passionate Computer Science student at <b>CUST, Islamabad</b> with a drive to create exceptional digital experiences.</p>
+  
+  <p><i>"Code is like humor. When you have to explain it, it's bad."</i> – Cory House</p>
+  
+  <ul>
+    <li>🚀 Building the next generation of web applications</li>
+    <li>🧠 Exploring AI, ML, and their real-world applications</li>
+    <li>💻 Always learning new programming paradigms</li>
+    <li>🌟 Turning ideas into elegant, functional solutions</li>
+    <li>🔍 Passionate about clean architecture and best practices</li>
+  </ul>
+</div>
 
-🎯 Always learning new tech and pushing myself to create better experiences!
+<br>
 
----
+<!-- JOURNEY VISUALIZATION -->
+<div align="center">
+  <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> MY JOURNEY <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"></h2>
+</div>
 
-## 🚀 Tech Stack & Tools
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
-### 💻 Web Development
-- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB  
-- **Dev Tools:** VS Code, Git & GitHub, Postman  
+<div align="center">
+  <div style="display: flex; justify-content: center;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saeedmirza4&theme=radical" style="margin-right: 10px;" />
+  </div>
+</div>
 
-### 🤖 AI & ML
-- Python  
-- AI Concepts  
-- Prompt Engineering  
-- AI-powered Web Apps
+<!-- SKILLS SECTION -->
+<div align="center">
+  <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> SKILLS & TOOLS <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"></h2>
+</div>
 
-### 📦 Business / Freelance
-- Amazon FBA Product Hunting  
-- Product Research & Competitive Analysis
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="33%">
+        <h3>Frontend</h3>
+        <div align="center">
+          <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap&theme=dark" alt="Frontend Skills" />
+        </div>
+      </td>
+      <td valign="top" width="33%">
+        <h3>Backend & AI</h3>
+        <div align="center">
+          <img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,tensorflow&theme=dark" alt="Backend Skills" />
+        </div>
+      </td>
+      <td valign="top" width="33%">
+        <h3>Tools & Design</h3>
+        <div align="center">
+          <img src="https://skillicons.dev/icons?i=git,vscode,postman,figma&theme=dark" alt="Tools" />
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
-### 🛠 Other Skills
-- API Integration & Testing  
-- SEO  
-- Graphic Designing  
-- Creative Content Creation
+<!-- STATS SECTION -->
+<div align="center">
+  <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GITHUB STATS <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></h2>
+</div>
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saeedmirza4&show_icons=true&count_private=true&hide_border=true&title_color=ff64da&icon_color=34a1eb&text_color=c9d1d9&bg_color=0d1117" alt="Saeed Ur Rehman github stats" width="49%" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeedmirza4&layout=compact&hide_border=true&title_color=ff64da&text_color=c9d1d9&bg_color=0d1117" width="41%" alt="Saeed Ur Rehman Top Languages" />
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saeedmirza4&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=ff64da&fire=ff64da&currStreakLabel=ff64da" width="90%" />
+</div>
 
-## 🧠 What I'm Working On
-```diff
-+ Calovate → A calorie tracker web app to manage your macros.
-+ GrammarFixer → A grammar assistant powered by AI concepts.
-+ JS Tools → A toolkit of utilities built in vanilla JavaScript.
+<!-- PROJECTS SECTION -->
+<div align="center">
+  <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> FEATURED PROJECTS <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"></h2>
+</div>
+
+<div align="center">
+  <a href="https://github.com/saeedmirza4/callovate">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saeedmirza4&repo=callovate&bg_color=0D1117&title_color=ff64da&icon_color=F8D866&text_color=c9d1d9&hide_border=true" />
+  </a>
+  <a href="https://github.com/saeedmirza4/grammar-fixer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saeedmirza4&repo=grammar-fixer&bg_color=0D1117&title_color=ff64da&icon_color=F8D866&text_color=c9d1d9&hide_border=true" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/saeedmirza4/js-utilities">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saeedmirza4&repo=js-utilities&bg_color=0D1117&title_color=ff64da&icon_color=F8D866&text_color=c9d1d9&hide_border=true" />
+  </a>
+</div>
+
+<div align="center">
+  <details>
+    <summary><h3>🚀 Project Details</h3></summary>
+    <div align="left">
+      <h4>📊 Callovate</h4>
+      <p>An intelligent calorie tracking solution with powerful visualization tools:</p>
+      <ul>
+        <li>Customizable nutrition goals and tracking</li>
+        <li>Interactive data visualization dashboard</li> 
+        <li>Smart meal suggestions based on nutritional needs</li>
+        <li>Progress tracking with detailed analytics</li>
+      </ul>
+      <p><b>Tech Stack:</b> React.js, JavaScript, Chart.js, CSS</p>
+      
+      <h4>✍️ Grammar Fixer</h4>
+      <p>A sophisticated writing assistant for flawless communication:</p>
+      <ul>
+        <li>Real-time grammar and spelling correction</li>
+        <li>Style and tone recommendations</li>
+        <li>Contextual vocabulary suggestions</li>
+        <li>Seamless integration with writing platforms</li>
+      </ul>
+      <p><b>Tech Stack:</b> JavaScript, HTML, CSS, NLP API Integration</p>
+      
+      <h4>🛠️ JavaScript Utilities & Tools</h4>
+      <p>A comprehensive toolkit for modern web development:</p>
+      <ul>
+        <li>Performance-optimized data manipulation utilities</li>
+        <li>Advanced DOM manipulation helpers</li>
+        <li>Custom animation framework</li>
+        <li>Cross-browser compatibility solutions</li>
+      </ul>
+      <p><b>Tech Stack:</b> JavaScript, HTML, CSS, ES6+</p>
+    </div>
+  </details>
+</div>
+
+<!-- WHAT SETS ME APART SECTION -->
+<div align="center">
+  <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> WHAT SETS ME APART <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></h2>
+</div>
+
+<div style="display: flex; justify-content: center;">
+  <div align="center">
+    <!-- First row -->
+    <div style="display: flex; justify-content: center;">
+      <div style="width: 260px; margin: 10px; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); background: linear-gradient(135deg, #2a2a72 0%, #009ffd 100%);">
+        <h3>💡 Problem Solver</h3>
+        <p>I approach challenges with analytical thinking and creative solutions.</p>
+      </div>
+      <div style="width: 260px; margin: 10px; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); background: linear-gradient(135deg, #654ea3 0%, #eaafc8 100%);">
+        <h3>🔄 Adaptability</h3>
+        <p>Quick to master new technologies and methodologies as needed.</p>
+      </div>
+    </div>
+    <!-- Second row -->
+    <div style="display: flex; justify-content: center;">
+      <div style="width: 260px; margin: 10px; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); background: linear-gradient(135deg, #4e54c8 0%, #8f94fb 100%);">
+        <h3>🌐 Full-Stack Mindset</h3>
+        <p>Comfortable working across the entire development stack.</p>
+      </div>
+      <div style="width: 260px; margin: 10px; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); background: linear-gradient(135deg, #11998e 0%, #38ef7d 100%);">
+        <h3>🔍 Attention to Detail</h3>
+        <p>Committed to precision and excellence in every line of code.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- 3D SKILL VISUALIZATION -->
+<div align="center">
+  <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> SKILL PROFICIENCY <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"></h2>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=saeedmirza4&skills=JavaScript,React,HTML,CSS,Python,Node.js&width=820&bg=0D1117&textColor=c9d1d9">
+    <source media="(prefers-color-scheme: light)" srcset="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=saeedmirza4&skills=JavaScript,React,HTML,CSS,Python,Node.js&width=820">
+    <img alt="Skill chart" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=saeedmirza4&skills=JavaScript,React,HTML,CSS,Python,Node.js&width=820">
+  </picture>
+</div>
+
+<!-- TROPHIES SECTION -->
+<div align="center">
+  <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> ACHIEVEMENTS <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></h2>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saeedmirza4&theme=radical&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=7" width="100%" alt="Trophy" />
+</div>
+
+<!-- CONNECT SECTION -->
+<div align="center">
+  <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> LET'S CONNECT <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></h2>
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/saeed-ur-rehman-92b182289/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:sssf26mirza@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://saeeddev.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/saeedmirza4" target="_blank">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
+
+<div align="center">
+  <h3>I'm open to collaboration and exciting new opportunities! Let's build something amazing together.</h3>
+</div>
+
+<!-- VISITOR COUNT -->
+<div align="center">
+  <br>
+  <p align="center">Visitors Count</p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{saeedmirza4}/count.svg" /></p> 
+</div>
+
+<!-- FOOTER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</div>
