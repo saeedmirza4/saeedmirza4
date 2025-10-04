@@ -5,12 +5,12 @@
   <p align="center">
     <a href="https://saeeddev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-saeeddev.vercel.app-F16529?style=for-the-badge&logo=firefox-browser&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/saeed-ur-rehman-92b182289/"><img src="https://img.shields.io/badge/LinkedIn-Saeed%20Ur%20Rehman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="mailto:sssf26mirza@gmail.com"><img src="https://img.shields.io/badge/Email-sssf26mirza%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="mailto:saeedurrehman2665@gmail.com"><img src="https://img.shields.io/badge/Email-saeedurrehman2665%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     <a href="https://github.com/saeedmirza4"><img src="https://img.shields.io/badge/GitHub-saeedmirza4-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   </p>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&multiline=true&width=500&height=80&lines=Aspiring+Software+Developer;AI+Enthusiast+%26+Web+Development+Expert" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&multiline=true&width=600&height=80&lines=CS+Student+%7C+Web+%26+App+Developer;AI+Enthusiast+%7C+Chatbot+Developer" alt="Typing SVG" />
   </a>
 </div>
 
@@ -26,18 +26,15 @@
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
 
 <div align="left" width="50%">
-  <p>I'm a passionate Computer Science student at <b>CUST, Islamabad</b> with a drive to create exceptional digital experiences.</p>
+  <p>I'm a <b>CS student</b> at <b>CUST, Islamabad</b>, aspiring to become a skilled <b>web & app developer</b> and an <b>AI enthusiast</b> diving into <b>chatbot development</b>. My main focus is <b>learning while building side projects alongside studies</b>.</p>
   
-  <p><i>"Code is like humor. When you have to explain it, it's bad."</i> – Cory House</p>
+  <p><i>"What motivates me is a man who knows what to do in life rather than wasting time."</i></p>
   
   <ul>
-    <li>🚀 Building the next generation of web applications</li>
-    <li>🧠 Exploring AI, ML, and their real-world applications</li>
-    <li>💻 Always learning new programming paradigms</li>
-    <li>🌟 Turning ideas into elegant, functional solutions</li>
-    <li>🔍 Passionate about clean architecture and best practices</li>
-    <li>👨‍💻 Actively contributing to open-source projects and collaborating with developers worldwide</li>
-    <li>🌱 Continuously expanding my knowledge in machine learning, data science, and cloud technologies</li>
+    <li>🚀 Building web and mobile applications with modern technologies</li>
+    <li>🤖 Exploring AI and chatbot development</li>
+    <li>💻 Learning through hands-on projects</li>
+    <li>⚽ Hobbies: Football, Table Tennis, and Cooking</li>
   </ul>
 </div>
 
@@ -70,22 +67,44 @@
 <div align="center">
   <table>
     <tr>
-      <td valign="top" width="33%">
-        <h3>Frontend</h3>
+      <td valign="top" width="50%">
+        <h3>Frontend & Mobile</h3>
         <div align="center">
           <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap&theme=dark" alt="Frontend Skills" />
         </div>
       </td>
-      <td valign="top" width="33%">
-        <h3>Backend & AI</h3>
+      <td valign="top" width="50%">
+        <h3>Backend & APIs</h3>
         <div align="center">
-          <img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,tensorflow&theme=dark" alt="Backend Skills" />
+          <img src="https://skillicons.dev/icons?i=nodejs,express,postman&theme=dark" alt="Backend Skills" />
         </div>
       </td>
-      <td valign="top" width="33%">
-        <h3>Tools & Design</h3>
+    </tr>
+    <tr>
+      <td valign="top" width="50%">
+        <h3>Databases & Deployment</h3>
         <div align="center">
-          <img src="https://skillicons.dev/icons?i=git,vscode,postman,figma,docker,linux&theme=dark" alt="Tools" />
+          <img src="https://skillicons.dev/icons?i=mongodb,vercel,docker&theme=dark" alt="Database Skills" />
+        </div>
+      </td>
+      <td valign="top" width="50%">
+        <h3>AI & Chatbots</h3>
+        <div align="center">
+          <img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" alt="AI Skills" />
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" width="50%">
+        <h3>Programming & Fundamentals</h3>
+        <div align="center">
+          <img src="https://skillicons.dev/icons?i=cpp,c,java&theme=dark" alt="Programming" />
+        </div>
+      </td>
+      <td valign="top" width="50%">
+        <h3>Other Tools</h3>
+        <div align="center">
+          <img src="https://skillicons.dev/icons?i=git,vscode,figma,linux&theme=dark" alt="Tools" />
         </div>
       </td>
     </tr>
@@ -100,24 +119,32 @@
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://img.shields.io/badge/JavaScript-★★★★☆-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E" alt="JavaScript"/></td>
-      <td><img src="https://img.shields.io/badge/React-★★★★★-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB" alt="React"/></td>
+      <td><img src="https://img.shields.io/badge/HTML5-⭐⭐⭐⭐⭐-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26" alt="HTML5"/></td>
+      <td><img src="https://img.shields.io/badge/CSS3-⭐⭐⭐⭐⭐-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6" alt="CSS3"/></td>
     </tr>
     <tr>
-      <td><img src="https://img.shields.io/badge/HTML5-★★★★★-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26" alt="HTML5"/></td>
-      <td><img src="https://img.shields.io/badge/CSS3-★★★★★-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6" alt="CSS3"/></td>
+      <td><img src="https://img.shields.io/badge/JavaScript-⭐⭐⭐⭐⭐-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E" alt="JavaScript"/></td>
+      <td><img src="https://img.shields.io/badge/React-⭐⭐⭐⭐⭐-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB" alt="React"/></td>
     </tr>
     <tr>
-      <td><img src="https://img.shields.io/badge/Node.js-★★★★☆-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=339933" alt="Node.js"/></td>
-      <td><img src="https://img.shields.io/badge/Python-★★★★☆-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB" alt="Python"/></td>
+      <td><img src="https://img.shields.io/badge/Tailwind-⭐⭐⭐⭐⭐-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=06B6D4" alt="Tailwind"/></td>
+      <td><img src="https://img.shields.io/badge/Bootstrap-⭐⭐⭐⭐-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=7952B3" alt="Bootstrap"/></td>
     </tr>
     <tr>
-      <td><img src="https://img.shields.io/badge/MongoDB-★★★★☆-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248" alt="MongoDB"/></td>
-      <td><img src="https://img.shields.io/badge/Express-★★★★☆-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=000000" alt="Express"/></td>
+      <td><img src="https://img.shields.io/badge/Node.js-⭐⭐⭐⭐-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=339933" alt="Node.js"/></td>
+      <td><img src="https://img.shields.io/badge/Express-⭐⭐⭐⭐-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=000000" alt="Express"/></td>
     </tr>
     <tr>
-      <td><img src="https://img.shields.io/badge/Git-★★★★★-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032" alt="Git"/></td>
-      <td><img src="https://img.shields.io/badge/Figma-★★★★☆-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=F24E1E" alt="Figma"/></td>
+      <td><img src="https://img.shields.io/badge/MongoDB-⭐⭐⭐⭐-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248" alt="MongoDB"/></td>
+      <td><img src="https://img.shields.io/badge/Python-⭐⭐⭐⭐-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB" alt="Python"/></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/C++-⭐⭐⭐⭐-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=00599C" alt="C++"/></td>
+      <td><img src="https://img.shields.io/badge/Git-⭐⭐⭐⭐⭐-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032" alt="Git"/></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/Figma-⭐⭐⭐⭐-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=F24E1E" alt="Figma"/></td>
+      <td><img src="https://img.shields.io/badge/TensorFlow-⭐⭐⭐⭐-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=FF6F00" alt="TensorFlow"/></td>
     </tr>
   </table>
 </div>
@@ -141,16 +168,24 @@
 </div>
 
 <div align="center">
+  <a href="https://github.com/saeedmirza4/gpa-cgpa-calculator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saeedmirza4&repo=gpa-cgpa-calculator&bg_color=0D1117&title_color=ff64da&icon_color=F8D866&text_color=c9d1d9&hide_border=true" alt="GPA CGPA Calculator" />
+  </a>
   <a href="https://github.com/saeedmirza4/callovate">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=saeedmirza4&repo=callovate&bg_color=0D1117&title_color=ff64da&icon_color=F8D866&text_color=c9d1d9&hide_border=true" alt="Callovate Project" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/saeedmirza4/color-sage">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saeedmirza4&repo=color-sage&bg_color=0D1117&title_color=ff64da&icon_color=F8D866&text_color=c9d1d9&hide_border=true" alt="Color Sage" />
   </a>
   <a href="https://github.com/saeedmirza4/grammar-fixer">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=saeedmirza4&repo=grammar-fixer&bg_color=0D1117&title_color=ff64da&icon_color=F8D866&text_color=c9d1d9&hide_border=true" alt="Grammar Fixer Project" />
   </a>
 </div>
 <div align="center">
-  <a href="https://github.com/saeedmirza4/js-utilities">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saeedmirza4&repo=js-utilities&bg_color=0D1117&title_color=ff64da&icon_color=F8D866&text_color=c9d1d9&hide_border=true" alt="JS Utilities Project" />
+  <a href="https://github.com/saeedmirza4/student-helper-chatbot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saeedmirza4&repo=student-helper-chatbot&bg_color=0D1117&title_color=ff64da&icon_color=F8D866&text_color=c9d1d9&hide_border=true" alt="Student Helper Chatbot" />
   </a>
 </div>
 
@@ -158,7 +193,18 @@
   <details>
     <summary><h3>🚀 Project Details</h3></summary>
     <div align="left">
-      <h4>📊 Callovate</h4>
+      <h4>🎓 GPA & CGPA Calculator</h4>
+      <p>A user-friendly web application for students to calculate their GPA and CGPA:</p>
+      <ul>
+        <li>Easy-to-use interface for grade entry</li>
+        <li>Instant calculation of GPA and CGPA</li>
+        <li>Support for multiple grading systems</li>
+        <li>Responsive design for all devices</li>
+      </ul>
+      <p><b>Tech Stack:</b> HTML, CSS, JavaScript</p>
+      <p><b>Links:</b> <a href="https://github.com/saeedmirza4/gpa-cgpa-calculator">GitHub</a> | <a href="https://gpa-cgpa-calculator-saeed.vercel.app/">Live Demo</a></p>
+      
+      <h4>📊 Callovate - Nutrition Tracking App</h4>
       <p>An intelligent calorie tracking solution with powerful visualization tools:</p>
       <ul>
         <li>Customizable nutrition goals and tracking</li>
@@ -167,6 +213,18 @@
         <li>Progress tracking with detailed analytics</li>
       </ul>
       <p><b>Tech Stack:</b> React.js, JavaScript, Chart.js, CSS</p>
+      <p><b>Links:</b> <a href="https://github.com/saeedmirza4/callovate">GitHub</a></p>
+      
+      <h4>🎨 Color Sage</h4>
+      <p>A comprehensive color palette generator and design tool:</p>
+      <ul>
+        <li>Generate harmonious color schemes</li>
+        <li>Color accessibility checker</li>
+        <li>Export palettes in multiple formats</li>
+        <li>Save and manage favorite palettes</li>
+      </ul>
+      <p><b>Tech Stack:</b> HTML, CSS, JavaScript</p>
+      <p><b>Links:</b> <a href="https://github.com/saeedmirza4/color-sage">GitHub</a> | <a href="https://color-sage.vercel.app/">Live Demo</a></p>
       
       <h4>✍️ Grammar Fixer</h4>
       <p>A sophisticated writing assistant for flawless communication:</p>
@@ -174,19 +232,21 @@
         <li>Real-time grammar and spelling correction</li>
         <li>Style and tone recommendations</li>
         <li>Contextual vocabulary suggestions</li>
-        <li>Seamless integration with writing platforms</li>
+        <li>Clean and intuitive interface</li>
       </ul>
-      <p><b>Tech Stack:</b> JavaScript, HTML, CSS, NLP API Integration</p>
+      <p><b>Tech Stack:</b> JavaScript, HTML, CSS, API Integration</p>
+      <p><b>Links:</b> <a href="https://github.com/saeedmirza4/grammar-fixer">GitHub</a></p>
       
-      <h4>🛠️ JavaScript Utilities & Tools</h4>
-      <p>A comprehensive toolkit for modern web development:</p>
+      <h4>🤖 Student Helper Chatbot</h4>
+      <p>An AI-powered chatbot designed to assist students with academic queries:</p>
       <ul>
-        <li>Performance-optimized data manipulation utilities</li>
-        <li>Advanced DOM manipulation helpers</li>
-        <li>Custom animation framework</li>
-        <li>Cross-browser compatibility solutions</li>
+        <li>Natural language processing for understanding queries</li>
+        <li>Quick answers to common student questions</li>
+        <li>Integration with educational resources</li>
+        <li>24/7 availability for student support</li>
       </ul>
-      <p><b>Tech Stack:</b> JavaScript, HTML, CSS, ES6+</p>
+      <p><b>Tech Stack:</b> Python, TensorFlow, NLP</p>
+      <p><b>Links:</b> <a href="https://github.com/saeedmirza4/student-helper-chatbot">GitHub</a></p>
     </div>
   </details>
 </div>
@@ -252,7 +312,7 @@
   <a href="https://www.linkedin.com/in/saeed-ur-rehman-92b182289/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:sssf26mirza@gmail.com" target="_blank">
+  <a href="mailto:saeedurrehman2665@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://saeeddev.vercel.app/" target="_blank">
