@@ -36,6 +36,8 @@
     <li>💻 Always learning new programming paradigms</li>
     <li>🌟 Turning ideas into elegant, functional solutions</li>
     <li>🔍 Passionate about clean architecture and best practices</li>
+    <li>👨‍💻 Actively contributing to open-source projects and collaborating with developers worldwide</li>
+    <li>🌱 Continuously expanding my knowledge in machine learning, data science, and cloud technologies</li>
   </ul>
 </div>
 
@@ -83,14 +85,14 @@
       <td valign="top" width="33%">
         <h3>Tools & Design</h3>
         <div align="center">
-          <img src="https://skillicons.dev/icons?i=git,vscode,postman,figma&theme=dark" alt="Tools" />
+          <img src="https://skillicons.dev/icons?i=git,vscode,postman,figma,docker,linux&theme=dark" alt="Tools" />
         </div>
       </td>
     </tr>
   </table>
 </div>
 
-<!-- SKILL PROFICIENCY SECTION - REPLACED WITH BETTER VISUALIZATION -->
+<!-- SKILL PROFICIENCY SECTION -->
 <div align="center">
   <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> SKILL PROFICIENCY <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"></h2>
 </div>
@@ -99,23 +101,23 @@
   <table>
     <tr>
       <td><img src="https://img.shields.io/badge/JavaScript-★★★★☆-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E" alt="JavaScript"/></td>
-      <td><img src="https://img.shields.io/badge/React-★★★★☆-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB" alt="React"/></td>
+      <td><img src="https://img.shields.io/badge/React-★★★★★-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB" alt="React"/></td>
     </tr>
     <tr>
       <td><img src="https://img.shields.io/badge/HTML5-★★★★★-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26" alt="HTML5"/></td>
-      <td><img src="https://img.shields.io/badge/CSS3-★★★★☆-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6" alt="CSS3"/></td>
+      <td><img src="https://img.shields.io/badge/CSS3-★★★★★-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6" alt="CSS3"/></td>
     </tr>
     <tr>
-      <td><img src="https://img.shields.io/badge/Node.js-★★★☆☆-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=339933" alt="Node.js"/></td>
-      <td><img src="https://img.shields.io/badge/Python-★★★☆☆-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB" alt="Python"/></td>
+      <td><img src="https://img.shields.io/badge/Node.js-★★★★☆-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=339933" alt="Node.js"/></td>
+      <td><img src="https://img.shields.io/badge/Python-★★★★☆-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB" alt="Python"/></td>
     </tr>
     <tr>
-      <td><img src="https://img.shields.io/badge/MongoDB-★★★☆☆-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248" alt="MongoDB"/></td>
-      <td><img src="https://img.shields.io/badge/Express-★★★☆☆-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=000000" alt="Express"/></td>
+      <td><img src="https://img.shields.io/badge/MongoDB-★★★★☆-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248" alt="MongoDB"/></td>
+      <td><img src="https://img.shields.io/badge/Express-★★★★☆-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=000000" alt="Express"/></td>
     </tr>
     <tr>
-      <td><img src="https://img.shields.io/badge/Git-★★★★☆-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032" alt="Git"/></td>
-      <td><img src="https://img.shields.io/badge/Figma-★★★☆☆-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=F24E1E" alt="Figma"/></td>
+      <td><img src="https://img.shields.io/badge/Git-★★★★★-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032" alt="Git"/></td>
+      <td><img src="https://img.shields.io/badge/Figma-★★★★☆-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=F24E1E" alt="Figma"/></td>
     </tr>
   </table>
 </div>
@@ -140,15 +142,15 @@
 
 <div align="center">
   <a href="https://github.com/saeedmirza4/callovate">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saeedmirza4&repo=callovate&bg_color=0D1117&title_color=ff64da&icon_color=F8D866&text_color=c9d1d9&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saeedmirza4&repo=callovate&bg_color=0D1117&title_color=ff64da&icon_color=F8D866&text_color=c9d1d9&hide_border=true" alt="Callovate Project" />
   </a>
   <a href="https://github.com/saeedmirza4/grammar-fixer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saeedmirza4&repo=grammar-fixer&bg_color=0D1117&title_color=ff64da&icon_color=F8D866&text_color=c9d1d9&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saeedmirza4&repo=grammar-fixer&bg_color=0D1117&title_color=ff64da&icon_color=F8D866&text_color=c9d1d9&hide_border=true" alt="Grammar Fixer Project" />
   </a>
 </div>
 <div align="center">
   <a href="https://github.com/saeedmirza4/js-utilities">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saeedmirza4&repo=js-utilities&bg_color=0D1117&title_color=ff64da&icon_color=F8D866&text_color=c9d1d9&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saeedmirza4&repo=js-utilities&bg_color=0D1117&title_color=ff64da&icon_color=F8D866&text_color=c9d1d9&hide_border=true" alt="JS Utilities Project" />
   </a>
 </div>
 
@@ -254,7 +256,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://saeeddev.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://github.com/saeedmirza4" target="_blank">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -269,7 +271,7 @@
 <div align="center">
   <br>
   <p align="center">Visitors Count</p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{saeedmirza4}/count.svg" /></p> 
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/saeedmirza4/count.svg" /></p> 
 </div>
 
 <!-- FOOTER -->
