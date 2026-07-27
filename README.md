@@ -37,7 +37,7 @@
     <li>🚀 <b>GSoC 2026 Applicant</b> — proposals with Wikimedia, CCExtractor & Django</li>
     <li>🔭 Currently building a <b>Smart Home Security Dashboard</b> (FYP) — IoT + Cybersecurity + React</li>
     <li>📍 Based in <b>Islamabad / Hazro, Pakistan</b></li>
-    <li>⚡ Hobbies: Volleyball, Photography, AI Tools, Content Creation</li>
+    <li>⚡ Hobbies: Football, Photography, AI Tools, Content Creation</li>
   </ul>
 </div>
 
