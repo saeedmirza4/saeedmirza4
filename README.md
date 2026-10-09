@@ -1,320 +1,341 @@
-<!-- HEADER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Saeed%20Ur%20Rehman&fontSize=75&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=CS%20Student%20%7C%20Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+    <!-- HEADER -->
+    <div align="center">
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,
+  20&height=220&section=header&text=Saeed%20Ur%20Rehman&fontSize=70&fontAlignY=36&animation=fadeIn&fontColor=ffffff&desc=Software%
+  20Engineer%20•%20Web%20Systems%20•%20Automation%20•%20Practical%20AI&descAlignY=58&descSize=16" width="100%" alt="Saeed Ur
+  Rehman Header"/>
 
-  <a href="https://saeeddev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-saeeddev.vercel.app-F16529?style=for-the-badge&logo=firefox-browser&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/saeed-ur-rehman-92b182289/"><img src="https://img.shields.io/badge/LinkedIn-Saeed%20Ur%20Rehman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:sssf26mirza@gmail.com"><img src="https://img.shields.io/badge/Email-sssf26mirza@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/saeedmirza4"><img src="https://img.shields.io/badge/GitHub-saeedmirza4-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+      <a href="https://saeeddev.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Live%20Portfolio-saeeddev.vercel.app-2563EB?style=for-the-
+  badge&logo=vercel&logoColor=white"/>
+      </a>
+      <a href="https://www.linkedin.com/in/saeed-ur-rehman-92b182289/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-Saeed%20Ur%20Rehman-0A66C2?style=for-the-
+  badge&logo=linkedin&logoColor=white"/>
+      </a>
+      <a href="mailto:saeedurrehman2665@gmail.com">
+        <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+      </a>
+      <a href="https://github.com/saeedmirza4">
+        <img src="https://img.shields.io/badge/GitHub-saeedmirza4-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
 
-  <br/><br/>
+      <br/><br/>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&multiline=true&width=650&height=80&lines=Full-Stack+Developer+%7C+React+%2B+Node.js+%2B+Flutter;WordPress+Developer+%7C+Freelancer+%7C+GSoC+Applicant" alt="Typing SVG" />
-  </a>
-</div>
+      <!-- Dynamic Typing Subtitle -->
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+
+  Code&size=19&duration=3000&pause=1000&color=38BDF8&center=true&multiline=true&width=700&height=80&lines=Software+with+purpose.;
+  Full-Stack+Engineer+%7C+Next.js+%2B+Node.js+%2B+ASP.NET;Workflow+Automation+%26+n8n+Pipelines;CS+Student+%40+CUST+('27)+•+
+  Islamabad%2C+Pakistan" alt="Typing SVG" />
+      </a>
+    </div>
 
----
+    ---
 
-<!-- ABOUT ME -->
-<div align="center">
-  <h2>👨‍💻 About Me</h2>
-</div>
+    <!-- ABOUT ME -->
+    <div align="center">
+      <h2>👨‍💻 About Me</h2>
+    </div>
 
-<img align="right" alt="Coding" width="360" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+    <img align="right" alt="Coding GIF" width="340" src="https://camo.githubusercontent.
+  com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646
+  e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524
+  a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646
+  e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a6370327279544930487
+  1544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d6
+  67265616b2e676966">
 
-<div align="left">
-  <p>I'm a <b>Bachelor of Computer Science</b> student at <b>Capital University of Science & Technology (CUST), Islamabad</b> — currently in my <b>6th semester</b>, graduating in 2027.</p>
+    <div align="left">
+      <p>I’m a <b>Computer Science</b> student at <b>Capital University of Science & Technology (CUST), Islamabad</b> (graduating
+  in 2027), with a passion for building software where AI meets the web, backend architecture, and automated workflows.</p>
 
-  <p>I build full-stack web apps, mobile apps, and AI-powered tools — and I do it practically, not just academically. Alongside my studies I freelance, work, and build real things for real clients.</p>
+      <p>I build practical, production-ready tools rather than purely theoretical ones. Alongside my studies, I've interned at
+  telecommunications leaders, built production backends, shipped automation pipelines, and worked with cross-functional teams.</p>
 
-  <p><i>"What motivates me is a man who knows what to do in life rather than wasting time."</i></p>
+      <p><i>"Software starts with understanding the problem, not just writing the code."</i></p>
 
-  <ul>
-    <li>🌐 <b>Freelance WordPress Developer</b> at <b>Hostbreak</b> — end-to-end client builds</li>
-    <li>💼 <b>Front-End Intern</b> at <b>Smart Insight</b></li>
-    <li>🤝 <b>Digital Content & SEO</b> work for <b>Al Ahad Welfare Trust</b></li>
-    <li>🚀 <b>GSoC 2026 Applicant</b> — proposals with Wikimedia, CCExtractor & Django</li>
-    <li>🔭 Currently building a <b>Smart Home Security Dashboard</b> (FYP) — IoT + Cybersecurity + React</li>
-    <li>📍 Based in <b>Islamabad / Hazro, Pakistan</b></li>
-    <li>⚡ Hobbies: Football, Photography, AI Tools, Content Creation</li>
-  </ul>
-</div>
+      <ul>
+        <li>🏢 <b>Technology Intern</b> at <b>PTCL.Official</b> — Telecom tech core, signal data visualization & Python
+  automation</li>
+        <li>⚙️ <b>Back End Developer</b> at <b>Logic Powered Solutions</b> — REST APIs & server features with Node.js, Express &
+  MongoDB</li>
+        <li>📱 <b>Frontend Developer</b> at <b>Smart Insight</b> — Cross-platform apps with React Native & TypeScript</li>
+        <li>🌐 <b>WordPress Developer</b> at <b>Passivech</b> & <b>Hostbreak</b> — Custom themes & performance builds</li>
+        <li>🛡️ <b>Smart Home Security Dashboard (FYP)</b> — IoT security, anomaly detection & real-time monitoring</li>
+        <li>📍 <b>Islamabad / Hazro, Pakistan</b></li>
+      </ul>
+    </div>
 
-<br clear="right"/>
+    <br clear="right"/>
 
----
+    ---
 
-<!-- TECH STACK -->
-<div align="center">
-  <h2>🛠️ Tech Stack & Tools</h2>
-</div>
+    <!-- TECH STACK & TOOLS -->
+    <div align="center">
+      <h2>🛠️ Tech Stack & Toolkit</h2>
+    </div>
 
-<div align="center">
-  <table>
-    <tr>
-      <td valign="top" width="33%">
-        <h3 align="center">Frontend</h3>
-        <div align="center">
-          <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap&theme=dark"/>
-        </div>
-      </td>
-      <td valign="top" width="33%">
-        <h3 align="center">Backend & APIs</h3>
-        <div align="center">
-          <img src="https://skillicons.dev/icons?i=nodejs,express,python,postman&theme=dark"/>
-        </div>
-      </td>
-      <td valign="top" width="33%">
-        <h3 align="center">Mobile & Cross-Platform</h3>
-        <div align="center">
-          <img src="https://skillicons.dev/icons?i=flutter,dart,react&theme=dark"/>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td valign="top" width="33%">
-        <h3 align="center">Databases</h3>
-        <div align="center">
-          <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite&theme=dark"/>
-        </div>
-      </td>
-      <td valign="top" width="33%">
-        <h3 align="center">DevOps & Deployment</h3>
-        <div align="center">
-          <img src="https://skillicons.dev/icons?i=git,github,vercel,docker,linux&theme=dark"/>
-        </div>
-      </td>
-      <td valign="top" width="33%">
-        <h3 align="center">Languages & Other</h3>
-        <div align="center">
-          <img src="https://skillicons.dev/icons?i=cpp,c,python,figma,vscode&theme=dark"/>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+    <div align="center">
+      <table>
+        <tr>
+          <td valign="top" width="33%">
+            <h3 align="center">Frontend & Mobile</h3>
+            <div align="center">
+              <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind&theme=dark"/>
+            </div>
+          </td>
+          <td valign="top" width="33%">
+            <h3 align="center">Backend & Systems</h3>
+            <div align="center">
+              <img src="https://skillicons.dev/icons?i=nodejs,express,cs,dotnet,python,postman&theme=dark"/>
+            </div>
+          </td>
+          <td valign="top" width="33%">
+            <h3 align="center">Databases & Cloud</h3>
+            <div align="center">
+              <img src="https://skillicons.dev/icons?i=supabase,mongodb,mysql,sqlite,docker,vercel&theme=dark"/>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td valign="top" width="33%">
+            <h3 align="center">Automation & Ops</h3>
+            <div align="center">
+              <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Webhooks-0284C7?style=for-the-badge"/>
+              <img src="https://img.shields.io/badge/Web_Scraping-10B981?style=for-the-badge"/>
+            </div>
+          </td>
+          <td valign="top" width="33%">
+            <h3 align="center">AI & Data Products</h3>
+            <div align="center">
+              <img src="https://skillicons.dev/icons?i=python&theme=dark"/>
+              <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+            </div>
+          </td>
+          <td valign="top" width="33%">
+            <h3 align="center">Tools & DevOps</h3>
+            <div align="center">
+              <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma&theme=dark"/>
+            </div>
+          </td>
+        </tr>
+      </table>
+    </div>
 
-<br/>
+    <br/>
 
-<!-- SKILL LEVELS -->
-<div align="center">
-  <h3>📊 Proficiency Levels</h3>
-  <table>
-    <tr>
-      <td><img src="https://img.shields.io/badge/React.js-⭐⭐⭐⭐⭐-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB"/></td>
-      <td><img src="https://img.shields.io/badge/JavaScript-⭐⭐⭐⭐⭐-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E"/></td>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/HTML%2FCSS-⭐⭐⭐⭐⭐-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26"/></td>
-      <td><img src="https://img.shields.io/badge/Tailwind%20CSS-⭐⭐⭐⭐⭐-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=06B6D4"/></td>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/WordPress-⭐⭐⭐⭐⭐-21759B?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=21759B"/></td>
-      <td><img src="https://img.shields.io/badge/Node.js-⭐⭐⭐⭐-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=339933"/></td>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/Flutter-⭐⭐⭐⭐-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=02569B"/></td>
-      <td><img src="https://img.shields.io/badge/Python-⭐⭐⭐⭐-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB"/></td>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/MongoDB-⭐⭐⭐⭐-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248"/></td>
-      <td><img src="https://img.shields.io/badge/C%2B%2B-⭐⭐⭐⭐-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=00599C"/></td>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/Git%2FGitHub-⭐⭐⭐⭐⭐-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032"/></td>
-      <td><img src="https://img.shields.io/badge/Figma-⭐⭐⭐⭐-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=F24E1E"/></td>
-    </tr>
-  </table>
-</div>
+    <!-- SKILL PILL BADGES -->
+    <div align="center">
+      <h3>📊 Core Competencies</h3>
+      <table>
+        <tr>
+          <td><img src="https://img.shields.io/badge/Next.js%20%2F%20React-⭐⭐⭐⭐⭐-61DAFB?style=for-the-
+  badge&logo=react&logoColor=black&labelColor=61DAFB"/></td>
+          <td><img src="https://img.shields.io/badge/Node.js%20%2F%20Express-⭐⭐⭐⭐⭐-339933?style=for-the-
+  badge&logo=nodedotjs&logoColor=white&labelColor=339933"/></td>
+        </tr>
+        <tr>
+          <td><img src="https://img.shields.io/badge/TypeScript%20%2F%20JavaScript-⭐⭐⭐⭐⭐-3178C6?style=for-the-
+  badge&logo=typescript&logoColor=white&labelColor=3178C6"/></td>
+          <td><img src="https://img.shields.io/badge/C%23%20%2F%20ASP.NET-⭐⭐⭐⭐-512BD4?style=for-the-
+  badge&logo=dotnet&logoColor=white&labelColor=512BD4"/></td>
+        </tr>
+        <tr>
+          <td><img src="https://img.shields.io/badge/n8n%20%26%20Automation-⭐⭐⭐⭐⭐-EA4B71?style=for-the-
+  badge&logo=n8n&logoColor=white&labelColor=EA4B71"/></td>
+          <td><img src="https://img.shields.io/badge/Python%20%26%20AI%20APIs-⭐⭐⭐⭐-3776AB?style=for-the-
+  badge&logo=python&logoColor=white&labelColor=3776AB"/></td>
+        </tr>
+        <tr>
+          <td><img src="https://img.shields.io/badge/Supabase%20%26%20SQL-⭐⭐⭐⭐-3ECF8E?style=for-the-
+  badge&logo=supabase&logoColor=white&labelColor=3ECF8E"/></td>
+          <td><img src="https://img.shields.io/badge/Git%20%26%20GitHub-⭐⭐⭐⭐⭐-F05032?style=for-the-
+  badge&logo=git&logoColor=white&labelColor=F05032"/></td>
+        </tr>
+      </table>
+    </div>
 
----
+    ---
 
-<!-- FEATURED PROJECTS -->
-<div align="center">
-  <h2>🚀 Featured Projects</h2>
-</div>
+    <!-- FEATURED PROJECTS -->
+    <div align="center">
+      <h2>🚀 Selected Projects</h2>
+    </div>
 
-<div align="center">
-  <a href="https://github.com/saeedmirza4/callovate">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saeedmirza4&repo=callovate&bg_color=0D1117&title_color=ff64da&icon_color=F8D866&text_color=c9d1d9&hide_border=true"/>
-  </a>
-  <a href="https://github.com/saeedmirza4/gpa-cgpa-calculator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saeedmirza4&repo=gpa-cgpa-calculator&bg_color=0D1117&title_color=ff64da&icon_color=F8D866&text_color=c9d1d9&hide_border=true"/>
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/saeedmirza4/color-sage">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saeedmirza4&repo=color-sage&bg_color=0D1117&title_color=ff64da&icon_color=F8D866&text_color=c9d1d9&hide_border=true"/>
-  </a>
-  <a href="https://github.com/saeedmirza4/grammar-fixer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saeedmirza4&repo=grammar-fixer&bg_color=0D1117&title_color=ff64da&icon_color=F8D866&text_color=c9d1d9&hide_border=true"/>
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/saeedmirza4/student-helper-chatbot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saeedmirza4&repo=student-helper-chatbot&bg_color=0D1117&title_color=ff64da&icon_color=F8D866&text_color=c9d1d9&hide_border=true"/>
-  </a>
-</div>
+    <div align="center">
+      <a href="https://github.com/saeedmirza4">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=saeedmirza4&repo=saeed-rahman-portfolio-
+  site&bg_color=0D1117&title_color=ff64da&icon_color=F8D866&text_color=c9d1d9&hide_border=true"/>
+      </a>
+      <a href="https://github.com/saeedmirza4/gpa-cgpa-calculator">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=saeedmirza4&repo=gpa-cgpa-
+  calculator&bg_color=0D1117&title_color=ff64da&icon_color=F8D866&text_color=c9d1d9&hide_border=true"/>
+      </a>
+    </div>
+    <div align="center">
+      <a href="https://github.com/saeedmirza4/color-sage">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=saeedmirza4&repo=color-
+  sage&bg_color=0D1117&title_color=ff64da&icon_color=F8D866&text_color=c9d1d9&hide_border=true"/>
+      </a>
+      <a href="https://github.com/saeedmirza4/callovate">
+        <img src="https://github-readme-stats.vercel.
+  app/api/pin/?username=saeedmirza4&repo=callovate&bg_color=0D1117&title_color=ff64da&icon_color=F8D866&text_color=c9d1d9&hide_bor
+  der=true"/>
+      </a>
+    </div>
 
-<details>
-<summary><h3>📁 Project Details (click to expand)</h3></summary>
+    <details>
+    <summary><h3>📁 Detailed Project Directory (click to expand)</h3></summary>
 
-<br/>
+    <br/>
 
-**📊 Calovate — Nutrition & Calorie Tracking App**
-> React.js · JavaScript · Chart.js · CSS
-- Smart calorie and nutrition tracking with interactive dashboards
-- Customizable nutrition goals and progress analytics
-- Meal suggestions based on nutritional needs
-- [GitHub](https://github.com/saeedmirza4/callovate)
+    **🎓 UniFlow — University Discovery & Matching** *(Hackathon 2026)*
+    > Product Thinking · Matching Algorithms · UI/UX
+    - Intelligent recommendation and comparison system for higher education.
+    - Filters by affordability, degree eligibility, program ratings, and location.
+    - [GitHub Profile](https://github.com/saeedmirza4)
 
----
+    ---
 
-**🎓 GPA & CGPA Calculator**
-> HTML · CSS · JavaScript
-- Clean, fast calculator supporting multiple grading systems
-- Responsive design for mobile and desktop
-- [GitHub](https://github.com/saeedmirza4/gpa-cgpa-calculator) · [Live Demo](https://gpa-cgpa-calculator-saeed.vercel.app/)
+    **⚡ ASDACC — Digital Ops & Workflow Automation**
+    > Next.js · Supabase · n8n · REST Webhooks
+    - Complete digital infrastructure built for a financial & bookkeeping operations firm.
+    - Automates client communications, document intake, and webhook-triggered data workflows.
+    - [GitHub Profile](https://github.com/saeedmirza4)
 
----
+    ---
 
-**🎨 ColorSage — Color Palette Generator**
-> HTML · CSS · JavaScript
-- Generate harmonious color schemes for designers
-- Color accessibility checker and multi-format export
-- [GitHub](https://github.com/saeedmirza4/color-sage) · [Live Demo](https://color-sage.vercel.app/)
+    **💼 UnemployedNot — Job Portal Web App**
+    > C# · ASP.NET Web API · Angular · SQLite
+    - Full-stack job application and listing engine built for practical candidate-recruiter workflows.
+    - Structured relational database model with secure endpoints and filtering.
+    - [GitHub Profile](https://github.com/saeedmirza4)
 
----
+    ---
 
-**✍️ Grammar Fixer**
-> JavaScript · HTML · CSS · API Integration
-- Real-time grammar and spelling correction tool
-- Style suggestions and vocabulary improvements
-- [GitHub](https://github.com/saeedmirza4/grammar-fixer)
+    **📊 PortfolioAI — Data Product & Visualization Tool**
+    > Python · Streamlit · Plotly · AI APIs
+    - Interactive exploration interface for collecting and charting complex metrics and portfolios.
+    - [GitHub Profile](https://github.com/saeedmirza4)
 
----
+    ---
 
-**🤖 Student Helper Chatbot**
-> Python · NLP · TensorFlow
-- AI-powered chatbot for student academic queries
-- Natural language understanding with educational resource integration
-- [GitHub](https://github.com/saeedmirza4/student-helper-chatbot)
+    **🎨 Color Sage — Palette Generation Utility**
+    > HTML · CSS · JavaScript
+    - Focused palette generator for web designers with accessibility checking and export options.
+    - [GitHub Repo](https://github.com/saeedmirza4/color-sage) · [Live Demo](https://color-sage.vercel.app/)
 
----
+    ---
 
-**🏠 Smart Home Security Dashboard** *(Final Year Project — In Progress)*
-> React · Node.js · Express · MongoDB · Socket.io · Python · MQTT · JWT
-- Real-time IoT device monitoring with anomaly detection
-- TLS encryption, JWT auth, and Splunk-based threat logging
-- Zero hardware — fully simulated with Python & open-source tools
-- Team project: leading frontend development
+    **📈 GPA & CGPA Calculator**
+    > HTML · CSS · JavaScript
+    - Lightweight, fast web calculator supporting custom credit weightings and grading rubrics.
+    - [GitHub Repo](https://github.com/saeedmirza4/gpa-cgpa-calculator) · [Live Demo](https://gpa-cgpa-calculator-saeed.vercel.
+  app/)
 
-</details>
+    ---
 
----
+    **🥗 Calovate — Nutrition Tracking & Analysis**
+    > React.js · Chart.js · JavaScript
+    - Interactive meal and micronutrient tracking platform with data visualizations.
+    - [GitHub Repo](https://github.com/saeedmirza4/callovate)
 
-<!-- GITHUB STATS -->
-<div align="center">
-  <h2>📈 GitHub Stats</h2>
-</div>
+    ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saeedmirza4&show_icons=true&count_private=true&hide_border=true&title_color=ff64da&icon_color=34a1eb&text_color=c9d1d9&bg_color=0d1117" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeedmirza4&layout=compact&hide_border=true&title_color=ff64da&text_color=c9d1d9&bg_color=0d1117" width="41%"/>
-</div>
+    **🏠 Smart Home Security Dashboard** *(Final Year Project)*
+    > React · Node.js · Express · MQTT · Python · Socket.io
+    - Real-time IoT monitoring system with simulated sensor streams, TLS encryption, and anomaly detection.
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saeedmirza4&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=ff64da&fire=ff64da&currStreakLabel=ff64da" width="90%"/>
-</div>
+    </details>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saeedmirza4&theme=react-dark&hide_border=true&area=true" width="90%"/>
-</div>
+    ---
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saeedmirza4&theme=radical&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=7" width="100%"/>
-</div>
+    <!-- GITHUB STATS -->
+    <div align="center">
+      <h2>📈 GitHub Activity & Stats</h2>
+    </div>
 
----
+    <div align="center">
+      <img src="https://github-readme-stats.vercel.
+  app/api?username=saeedmirza4&show_icons=true&count_private=true&hide_border=true&title_color=ff64da&icon_color=34a1eb&text_color
+  =c9d1d9&bg_color=0d1117" width="49%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-
+  langs/?username=saeedmirza4&layout=compact&hide_border=true&title_color=ff64da&text_color=c9d1d9&bg_color=0d1117" width="41%"/>
+    </div>
 
-<!-- CONTRIBUTION SNAKE -->
-<div align="center">
-  <h2>🐍 My Contribution Journey</h2>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+    <div align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.
+  com/?user=saeedmirza4&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=ff64da&fire=ff64da&currStreakLabel=ff64d
+  a" width="90%"/>
+    </div>
 
----
+    <div align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=saeedmirza4&theme=react-
+  dark&hide_border=true&area=true" width="90%"/>
+    </div>
 
-<!-- WHAT I BRING -->
-<div align="center">
-  <h2>⚡ What I Bring to the Table</h2>
-  <table border="0">
-    <tr>
-      <td align="center" width="25%">
-        <h3>🌐 Full-Stack</h3>
-        <p>Comfortable across the entire stack — React frontends, Node.js backends, mobile with Flutter, and WordPress for clients.</p>
-      </td>
-      <td align="center" width="25%">
-        <h3>🛠️ Real-World Experience</h3>
-        <p>Not just academic projects — I've built sites for actual clients, run social media campaigns, and worked in internship environments.</p>
-      </td>
-      <td align="center" width="25%">
-        <h3>🤖 AI-Curious</h3>
-        <p>Actively applying AI tools to real problems — from chatbots to smart dashboards — and staying current with the space.</p>
-      </td>
-      <td align="center" width="25%">
-        <h3>🔥 Builder Mindset</h3>
-        <p>I ship. GPA calculators, color tools, chatbots, nutrition trackers — I build things people actually use.</p>
-      </td>
-    </tr>
-  </table>
-</div>
+    <div align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=saeedmirza4&theme=radical&no-frame=true&no-bg=false&margin-
+  w=15&margin-h=15&column=7" width="100%"/>
+    </div>
 
----
+    ---
 
-<!-- CURRENT FOCUS -->
-<div align="center">
-  <h2>🎯 Currently Working On</h2>
-</div>
+    <!-- CONTRIBUTION SNAKE -->
+    <div align="center">
+      <h2>🐍 Contribution Journey</h2>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-
+  contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-
+  contribution-grid-snake.svg">
+        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-
+  contribution-grid-snake.svg">
+      </picture>
+    </div>
 
-```text
-🏠  Smart Home Security Dashboard (FYP)   ████████████░░░   75%
-🌐  GSoC 2026 Applications               ████████████████  100% Submitted ✅
-💼  Freelance WordPress Projects          ████████░░░░░░░░  Active
-📱  Flutter Mobile Development            ██████░░░░░░░░░░  Learning
-```
+    ---
 
----
+    <!-- WHAT I BRING -->
+    <div align="center">
+      <h2>⚡ What I Bring to the Table</h2>
+      <table border="0">
+        <tr>
+          <td align="center" width="25%">
+            <h3>🌐 Modern Full-Stack</h3>
+            <p>Production Next.js & React frontends paired with robust Node.js and ASP.NET Core backend services.</p>
+          </td>
+          <td align="center" width="25%">
+            <h3>⚙️ Real-World Systems</h3>
+            <p>Telecom infrastructure exposure at PTCL, backend API engineering at LPS, and real-client WordPress builds.</p>
+          </td>
+          <td align="center" width="25%">
+            <h3>⚡ Workflow Automation</h3>
+            <p>Automating repetitive operational tasks using n8n workflows, event webhooks, and targeted web scrapers.</p>
+          </td>
+          <td align="center" width="25%">
+            <h3>🔥 Builder Mindset</h3>
+            <p>I ship. Calculators, palettes, portals, or full systems — I create practical software that solves real problems.
+  </p>
+          </td>
+        </tr>
+      </table>
+    </div>
 
-<!-- CONNECT -->
-<div align="center">
-  <h2>🤝 Let's Connect</h2>
+    ---
 
-  <a href="https://www.linkedin.com/in/saeed-ur-rehman-92b182289/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:sssf26mirza@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://saeeddev.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white"/>
-  </a>
-  <a href="https://github.com/saeedmirza4" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+    <!-- CURRENT FOCUS -->
+    <div align="center">
+      <h2>🎯 Current Focus</h2>
+    </div>
 
-  <br/><br/>
-  <h3>Open to internships, collaborations, and exciting builds. Let's make something great. 🚀</h3>
-
-  <br/>
-  <p>Visitors</p>
-  <img src="https://profile-counter.glitch.me/saeedmirza4/count.svg"/>
-</div>
-
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+    ```text
+    🏠  Smart Home Security Dashboard (FYP)   ████████████░░░   80%
+    ⚙️  Next.js & ASP.NET Enterprise Builds   ██████████████░   90%
+    ⚡  n8n & Workflow Automation Pipelines   ████████████████  Active 🚀
+    🌐  Portfolio & Client Engineering        ████████████████  Shipping ✅
+  ──────🤝 Let's Make Something Useful
+  Open to software engineering roles, internships, and ambitious projects. Let's talk! 🚀Profile Visitors```──────
