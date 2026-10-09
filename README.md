@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- HEADER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,28&height=210&section=header&text=Saeed%20Ur%20Rehman&fontSize=68&fontAlignY=36&animation=fadeIn&fontColor=ffffff&desc=SOFTWARE%20ENGINEER%20%2F%20AI%20•%20AUTOMATION%20•%20DATA%20%2F%20CUST%20'27&descAlignY=58&descSize=15" width="100%" alt="Saeed Ur Rehman Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,28&height=210&section=header&text=Saeed%20Ur%20Rehman&fontSize=68&fontAlignY=36&animation=fadeIn&fontColor=ffffff&desc=SOFTWARE%20ENGINEER%20%7C%20AI%20•%20AUTOMATION%20•%20DATA%20%7C%20CUST%20'27&descAlignY=58&descSize=15" width="100%" alt="Saeed Ur Rehman Header"/>
 
   <p align="center">
     <strong>Building useful software across the web, backend systems, automation, and practical AI.</strong>
@@ -33,9 +33,9 @@
 
 ### 01 / NOTE ✳
 
-> *"I’m a Computer Science student at CUST with a genuine interest in the space where AI meets the web. I’ve moved between frontend, WordPress, backend, mobile and automation work learning that good software starts with understanding the problem, not just writing the code.*
+> *"I’m a Computer Science student at CUST with a genuine interest in the space where AI meets the web. I’ve moved between frontend, WordPress, backend, mobile, and automation work — learning that good software starts with understanding the problem, not just writing the code.*
 >
-> *These days, I’m going deeper into React, Python, backend development and practical AI applications. I enjoy projects that make me figure things out as I go, and leave something useful behind."*
+> *These days, I’m going deeper into React, Python, backend development, and practical AI applications. I enjoy projects that make me figure things out as I go, and leave something useful behind."*
 
 - 🏛️ **Education**: Bachelor’s in Computer Science @ **Capital University of Science & Technology (CUST)** *(2023 — 2027)*
 - 📍 **Location**: Islamabad, Pakistan
@@ -65,7 +65,7 @@
       <td><code>HACKATHON / 2026</code></td>
       <td>University discovery and matching platform for students comparing affordability, eligibility, programs, and location.</td>
       <td><code>Matching Logic</code> · <code>Research</code> · <code>Product Thinking</code></td>
-      <td align="center"><a href="https://github.com/saeedmirza4"><b>Repo</b></a></td>
+      <td align="center"><a href="https://github.com/saeedmirza4"><b>Profile</b></a></td>
     </tr>
     <tr>
       <td align="center"><b>02</b></td>
@@ -73,7 +73,7 @@
       <td><code>AUTOMATION / OPS</code></td>
       <td>Digital infrastructure and workflow automation platform built for a bookkeeping and financial operations venture.</td>
       <td><code>Next.js</code> · <code>Supabase</code> · <code>n8n</code> · <code>Automation</code></td>
-      <td align="center"><a href="https://github.com/saeedmirza4"><b>Repo</b></a></td>
+      <td align="center"><a href="https://github.com/saeedmirza4"><b>Profile</b></a></td>
     </tr>
     <tr>
       <td align="center"><b>03</b></td>
@@ -81,7 +81,7 @@
       <td><code>FULL-STACK APP</code></td>
       <td>A complete job portal web application tailored around the practical details of finding and applying for work.</td>
       <td><code>C#</code> · <code>ASP.NET Core</code> · <code>Angular</code> · <code>SQLite</code></td>
-      <td align="center"><a href="https://github.com/saeedmirza4"><b>Repo</b></a></td>
+      <td align="center"><a href="https://github.com/saeedmirza4"><b>Profile</b></a></td>
     </tr>
     <tr>
       <td align="center"><b>04</b></td>
@@ -89,7 +89,7 @@
       <td><code>AI / DATA PRODUCT</code></td>
       <td>An AI-based portfolio exploration tool for collecting, charting, and interactively visualizing complex data.</td>
       <td><code>Python</code> · <code>Streamlit</code> · <code>Plotly</code> · <code>AI APIs</code></td>
-      <td align="center"><a href="https://github.com/saeedmirza4"><b>Repo</b></a></td>
+      <td align="center"><a href="https://github.com/saeedmirza4"><b>Profile</b></a></td>
     </tr>
     <tr>
       <td align="center"><b>05</b></td>
@@ -149,14 +149,14 @@
     <td width="50%" valign="top">
       <h3>🚀 BUILD</h3>
       <p><i>Ship useful software for web & applications</i></p>
-      <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,express&theme=dark" alt="Build Stack"/><br/>
-      <b>JavaScript</b> · <b>TypeScript</b> · <b>Python</b> · <b>React</b> · <b>Next.js</b> · <b>Node.js</b> · <b>Express</b>
+      <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,express&theme=dark" alt="Build Stack"/><br/><br/>
+      <code>JavaScript</code> · <code>TypeScript</code> · <code>Python</code> · <code>React</code> · <code>Next.js</code> · <code>Node.js</code> · <code>Express</code>
     </td>
     <td width="50%" valign="top">
       <h3>💾 SYSTEMS</h3>
       <p><i>Resilient APIs, databases & infrastructure</i></p>
-      <img src="https://skillicons.dev/icons?i=cs,dotnet,supabase,mongodb,mysql,sqlite,docker,git&theme=dark" alt="Systems Stack"/><br/>
-      <b>REST APIs</b> · <b>MongoDB</b> · <b>SQL</b> · <b>Supabase</b> · <b>C#</b> · <b>ASP.NET Web API</b> · <b>Git</b> · <b>GitHub</b>
+      <img src="https://skillicons.dev/icons?i=cs,dotnet,supabase,mongodb,mysql,sqlite,docker,git&theme=dark" alt="Systems Stack"/><br/><br/>
+      <code>REST APIs</code> · <code>MongoDB</code> · <code>SQL</code> · <code>Supabase</code> · <code>C#</code> · <code>ASP.NET Web API</code> · <code>Git</code> · <code>GitHub</code>
     </td>
   </tr>
   <tr>
@@ -165,16 +165,16 @@
       <p><i>Event-driven workflows, webhooks & data pipelines</i></p>
       <a href="https://n8n.io"><img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/></a>
       <img src="https://img.shields.io/badge/Webhooks-0284C7?style=for-the-badge" alt="Webhooks"/>
-      <img src="https://img.shields.io/badge/Web_Scraping-10B981?style=for-the-badge" alt="Web Scraping"/><br/>
-      <b>n8n</b> · <b>Webhooks</b> · <b>API Automation</b> · <b>Web Scraping</b> · <b>Workflow Design</b>
+      <img src="https://img.shields.io/badge/Web_Scraping-10B981?style=for-the-badge" alt="Web Scraping"/><br/><br/>
+      <code>n8n</code> · <code>Webhooks</code> · <code>API Automation</code> · <code>Web Scraping</code> · <code>Workflow Design</code>
     </td>
     <td width="50%" valign="top">
       <h3>🧠 EXPLORE</h3>
       <p><i>Applied AI, data analysis & interactive utilities</i></p>
       <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
       <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
-      <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React Native"/><br/>
-      <b>AI APIs</b> · <b>Prompt Engineering</b> · <b>Data Analysis</b> · <b>Streamlit</b> · <b>Plotly</b> · <b>React Native</b>
+      <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React Native"/><br/><br/>
+      <code>AI APIs</code> · <code>Prompt Engineering</code> · <code>Data Analysis</code> · <code>Streamlit</code> · <code>Plotly</code> · <code>React Native</code>
     </td>
   </tr>
 </table>
@@ -194,7 +194,7 @@
 
 ---
 
-### 06 / GITHUB STATS 📈
+### 06 / GITHUB METRICS 📈
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saeedmirza4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="155" alt="GitHub Stats" />
